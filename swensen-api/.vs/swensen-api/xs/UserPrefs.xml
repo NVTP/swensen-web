@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{488B5896-0CAF-4B08-B232-FDD059C24F8B}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/hrisdev/Downloads/swensen-api/backend/swensen-api/Services/PersonServices.cs" relfile="backend/swensen-api/Services/PersonServices.cs" line="26" column="1" />
+      <Breakpoint file="/Users/hrisdev/Downloads/swensen-api/swensen-api/Services/ProductService.cs" relfile="swensen-api/Services/ProductService.cs" line="58" column="1" />
+      <Breakpoint file="/Users/hrisdev/Downloads/swensen-api/swensen-api/Services/ProductService.cs" relfile="swensen-api/Services/ProductService.cs" line="153" column="1" />
+      <Breakpoint file="/Users/hrisdev/Downloads/swensen-api/swensen-api/Services/ProductService.cs" relfile="swensen-api/Services/ProductService.cs" line="32" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="swensen-api/Services/ProductService.cs">
+    <Files>
+      <File FileName="swensen-api/Program.cs" Line="73" Column="1" />
+      <File FileName="swensen-api/DbInitializer.cs" Line="21" Column="1" />
+      <File FileName="swensen-api/Entity/Product.cs" Line="7" Column="31" />
+      <File FileName="swensen-api/Services/ProductService.cs" Line="143" Column="14" />
+      <File FileName="swensen-api/Controllers/ProductController.cs" Line="20" Column="50" />
+      <File FileName="swensen-api/Repositories/EfRepository.cs" Line="27" Column="1" />
+      <File FileName="swensen-api/Context/EFContext.cs" Line="17" Column="72" />
+      <File FileName="swensen-api/Repositories/UnitOfWork.cs" Line="33" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="swensen-api" expanded="True">
+            <Node name="swensen-api" expanded="True">
+              <Node name="Context" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Entity" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ProductModel" expanded="True" />
+              </Node>
+              <Node name="Repositories" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.swensen-api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
